@@ -1,0 +1,3 @@
+[submodule "extern/clangformat-cmake"]
+	path = extern/clangformat-cmake
+	url = https://github.com/zemasoft/clangformat-cmake.git
